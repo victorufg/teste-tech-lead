@@ -109,7 +109,6 @@ A aplicação expõe os seguintes endpoints:
 
 ## ✨ Funcionalidades Principais
 
-- **Busca Instantânea (AJAX)**: Filtre cursos e alunos sem recarregar a página.
 - **Deleção em Massa**: Selecione múltiplos itens na tabela e exclua-os de uma vez através da barra de ações flutuante.
 - **Interface Premium**: Uso de Side Drawers para formulários, micro-interações com Alpine.js e design responsivo.
 - **Otimização de Performance**: Uso de indexes no banco e `withCount` para evitar o problema de N+1 queries.
